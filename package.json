@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node --enable-source-maps dist/index.mjs"
+    "start": "sh start.sh"
   },
   "dependencies": {
     "ws3-fca": "^3.5.2",
